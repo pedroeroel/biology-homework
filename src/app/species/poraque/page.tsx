@@ -27,7 +27,7 @@ export default function PoraquePage() {
           <h3 className="text-2xl font-semibold text-blue-600 mb-2">Nome Popular: Poraquê, Peixe-elétrico, Enguia Elétrica</h3>
           <h4 className="text-lg font-medium text-gray-700 mb-2">Contexto de Uso na Comunidade Quilombola do Abacatal:</h4>
           <p className="text-gray-800 leading-relaxed">
-            O poraquê, notável por sua capacidade de gerar fortes descargas elétricas, ocupa um lugar singular na medicina tradicional do Quilombo do Abacatal. Seu uso, embora mais específico e menos difundido que o de outros recursos naturais, está enraizado em uma profunda compreensão dos atributos singulares da espécie, frequentemente associados a conceitos de "energia" ou "poder" terapêutico para abordar certas condições de saúde.
+            O poraquê, notável por sua capacidade de gerar fortes descargas elétricas, ocupa um lugar singular na medicina tradicional do Quilombo do Abacatal. Seu uso, embora mais específico e menos difundido que o de outros recursos naturais, está enraizado em uma profunda compreensão dos atributos singulares da espécie, frequentemente associados a conceitos de &quot;energia&quot; ou &quot;poder&quot; terapêutico para abordar certas condições de saúde.
           </p>
         </div>
       </div>
@@ -44,7 +44,7 @@ export default function PoraquePage() {
             <strong className="text-blue-700">Compostos Bioativos Específicos:</strong> Embora especulativo, a pesquisa poderia investigar a presença de peptídeos ou outras moléculas com potenciais propriedades analgésicas ou neuromoduladoras que poderiam justificar certas aplicações tradicionais. Isso requer estudos bioquímicos avançados.
           </li>
           <li>
-            <strong className="text-blue-700">Estimulação Eletrofisiológica Controlada:</strong> Em algumas práticas tradicionais, o choque elétrico do poraquê é aplicado de forma controlada para aliviar dores localizadas, reativar funções motoras ou tratar certas condições consideradas "paralisias" ou "entorpecimentos". A base para tal uso pode envolver um efeito placebo significativo ou, em casos muito específicos e sob condições controladas, uma modulação fisiológica mediada por estímulos elétricos. É crucial ressaltar que a aplicação direta e descontrolada é extremamente perigosa.
+            <strong className="text-blue-700">Estimulação Eletrofisiológica Controlada:</strong> Em algumas práticas tradicionais, o choque elétrico do poraquê é aplicado de forma controlada para aliviar dores localizadas, reativar funções motoras ou tratar certas condições consideradas &quot;paralisias&quot; ou &quot;entorpecimentos&quot;. A base para tal uso pode envolver um efeito placebo significativo ou, em casos muito específicos e sob condições controladas, uma modulação fisiológica mediada por estímulos elétricos. É crucial ressaltar que a aplicação direta e descontrolada é extremamente perigosa.
           </li>
         </ul>
       </div>
